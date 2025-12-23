@@ -1,0 +1,139 @@
+{
+  "games": {
+    "PATTERNMATRIX": {
+      "name": "Pattern Matrix",
+      "howToPlay": "1. OBSERVE: A sequence of tiles will flash in order.\n2. MEMORIZE: Track the spatial coordinates of each flash.\n3. REPLICATE: Click tiles in the EXACT chronological order.\n4. CRITERIA: One misstep results in immediate termination.",
+      "savantInsight": "Visualize the sequence as a single moving path."
+    },
+    "NEBULATRIVIA": {
+      "name": "Nebula Trivia",
+      "howToPlay": "1. READ: A question and four options will appear.\n2. SELECT: Choose the correct answer before the timeout.\n3. ADAPT: Change topics to suit your expertise.\n4. SCORE: Correct answers grant level progression.",
+      "savantInsight": "Eliminate the most improbable answers first."
+    },
+    "THE300": {
+      "name": "The 300",
+      "howToPlay": "1. INITIALIZE: An arithmetic equation will appear.\n2. CALCULATE: Solve using standard Order of Operations.\n3. INPUT: Type your answer and press Enter.\n4. STREAK: Maintain a streak of 5 to clear the level.",
+      "savantInsight": "Round numbers to the nearest 10 for quick estimation."
+    },
+    "COLORPERCEPTION": {
+      "name": "Color Perception",
+      "howToPlay": "1. SCAN: A grid of colored tiles will appear.\n2. IDENTIFY: Find the tile with a different hue.\n3. SELECT: Click the anomalous tile.\n4. ESCALATE: Differences decrease as levels increase.",
+      "savantInsight": "Use peripheral vision; anomalies often 'shimmer'."
+    },
+    "MATCHMIX": {
+      "name": "Match & Mix",
+      "howToPlay": "1. FLIP: Click tiles to reveal equations or results.\n2. CALCULATE: Solve revealed equations immediately.\n3. PAIR: Find the tile that matches the integer result.\n4. CLEAR: Match all pairs to finish.",
+      "savantInsight": "Store only the answer in your short-term memory."
+    },
+    "TRAILOFDICE": {
+      "name": "Trail of Dice",
+      "howToPlay": "1. ANALYZE: Note the starting orientation.\n2. TRACK: Follow directional commands (UP, DOWN, etc.).\n3. PREDICT: Calculate rotation after each movement.\n4. SOLVE: Identify the TOP face after the final move.",
+      "savantInsight": "Opposite faces on a standard die always sum to 7."
+    },
+    "BLINDSUDOKU": {
+      "name": "Blind Sudoku",
+      "howToPlay": "1. SCAN: Memorize the grid before it vanishes.\n2. VANISH: Numbers disappear after the countdown.\n3. RECONSTRUCT: Fill the cells from memory.\n4. VERIFY: Click 'Verify' once the reconstruction is complete.",
+      "savantInsight": "Focus on empty clusters to reconstruct board segments."
+    },
+    "FORMULAARCHERY": {
+      "name": "Formula Archery",
+      "howToPlay": "1. ANALYZE: A linear algebraic equation is shown.\n2. ISOLATE: Subtract the constant from the total.\n3. SOLVE: Divide the result by the coefficient.\n4. EXECUTE: Input X and click 'Fire Solution'.",
+      "savantInsight": "Isolate the variable immediately by moving constants first."
+    },
+    "PIXELNUMBER": {
+      "name": "Pixel Number",
+      "howToPlay": "1. OBSERVE: Sparse pixels reveal a digit.\n2. DEDUCE: Visualize the full shape from the dots.\n3. GUESS: Select the correct digit (0-9).\n4. PRECISION: Pixel density decreases over time.",
+      "savantInsight": "Look for defining intersections like crossbars."
+    },
+    "INVESTIGATIONSIGNAL": {
+      "name": "Investigation Signal",
+      "howToPlay": "1. READ: Review logic clues for clearance levels.\n2. ANALYZE: Determine the rank of each operative.\n3. SORT: Drag names into a vertical hierarchy.\n4. SUBMIT: Order from highest to lowest clearance.",
+      "savantInsight": "Place the extremes (Rank 1 and 5) first."
+    },
+    "NUMERICALSEQUENCE": {
+      "name": "Numerical Sequence",
+      "howToPlay": "1. SCAN: Find the pattern in the number string.\n2. DEDUCE: Identify the rule governing the progression.\n3. CALCULATE: Find the value for the [?] entry.\n4. COMPLETE: Input and click 'Complete Sequence'.",
+      "savantInsight": "Check the difference between the differences."
+    },
+    "ROTATIONRPS": {
+      "name": "Rotation! RPS",
+      "howToPlay": "1. PREVIEW: See CPU starting hand and rotations.\n2. CALCULATE: Determine the CPU's final hand.\n3. PICK: Choose the hand that beats the result.\n4. WIN: Verify your pick after the animation.",
+      "savantInsight": "Calculate rotation as a remainder of 3."
+    },
+    "FINDME": {
+      "name": "Find Me",
+      "howToPlay": "1. SCAN: Click a tile to get a distance scan.\n2. ANALYZE: The number is the 'Manhattan Distance'.\n3. TRIANGULATE: Narrow location using multiple scans.\n4. CAPTURE: Click the exact tile where the target hides.",
+      "savantInsight": "Scan opposite corners first for better triangulation."
+    },
+    "NUMBERTARGET": {
+      "name": "Number Target",
+      "howToPlay": "1. IDENTIFY: Note the 'Target Lock' number.\n2. ASSEMBLE: Use integers and operators (+, -, *).\n3. CALCULATE: Build a formula that equals the target.\n4. EXECUTE: Click 'Execute' to submit.",
+      "savantInsight": "Look for large multipliers first to get close."
+    },
+    "LOGICCIRCUIT": {
+      "name": "Logic Circuit",
+      "howToPlay": "1. OBSERVE: Look at inputs and target output.\n2. CONFIGURE: Toggle gates (AND, OR, XOR).\n3. TRACE: Ensure signal flows through all layers.\n4. ENGAGE: Click 'Engage' when output is energized.",
+      "savantInsight": "Work backward from the final output gate."
+    },
+    "DECRYPTION": {
+      "name": "Decryption",
+      "howToPlay": "1. PROBE: Input numbers to see the transformation.\n2. DEDUCE: Figure out the hidden mathematical rule.\n3. CHALLENGE: Apply rule to the provided 'Target X'.\n4. SOLVE: Input the result and click 'Decrypt'.",
+      "savantInsight": "Test 0 and 1 first to reveal offset and multiplier."
+    },
+    "TRIPLEMAZE": {
+      "name": "Triple Maze",
+      "howToPlay": "1. DIMENSIONS: Move through three mazes at once.\n2. MOVEMENT: Use arrow keys to navigate.\n3. COLLISIONS: Any wall hit blocks all movement.\n4. EXIT: Reach the exit in all dimensions simultaneously.",
+      "savantInsight": "Use the most narrow maze as your primary guide."
+    },
+    "EXITSTRATEGY": {
+      "name": "Exit Strategy",
+      "howToPlay": "1. SCAN: Locate the Key and Exit.\n2. NAVIGATE: Slide the Key through the grid.\n3. AVOID: Maneuver around dark wall blocks.\n4. EXTRACT: Reach the exit in the fewest moves.",
+      "savantInsight": "Map the shortest path before moving any blocks."
+    },
+    "SILENTCHESS": {
+      "name": "Silent Chess",
+      "howToPlay": "1. EXPLORE: Move piece toward the flag.\n2. MEMORIZE: Avoid hidden traps; hitting one costs life.\n3. SURVIVE: Use limited lives to find a safe path.\n4. REACH: Land on the flag to clear the sector.",
+      "savantInsight": "Safe paths usually follow a zigzag pattern."
+    },
+    "BLACKWHITE": {
+      "name": "Black & White",
+      "howToPlay": "1. INITIALIZE: Start with 100 capital points.\n2. BID: Enter a hidden amount for the round.\n3. WIN: Higher bidder takes the point.\n4. DOMINATE: Win the majority of 5 rounds.",
+      "savantInsight": "Lure the AI into overspending with a small bid."
+    },
+    "RPSCHESS": {
+      "name": "RPS Chess",
+      "howToPlay": "1. DEPLOY: Control Rock, Paper, and Scissors units.\n2. MOVE: Move units into adjacent empty squares.\n3. CAPTURE: Land on enemy pieces using RPS rules.\n4. VICTORY: Capture the opponent's Flag to win.",
+      "savantInsight": "Keep Scissors near your Flag to defend against Paper."
+    },
+    "PYRAMIDLOGIC": {
+      "name": "Pyramid Logic",
+      "howToPlay": "1. ANALYZE: Find the rule in the number pyramid.\n2. DEDUCE: Blocks sum from the two beneath them.\n3. CALCULATE: Solve for the missing [?] block.\n4. FILL: Input answer and click 'Fill'.",
+      "savantInsight": "Use subtraction to work down from the top values."
+    },
+    "BALANCELOGIC": {
+      "name": "Balance Logic",
+      "howToPlay": "1. REVIEW: Observe weighing comparisons.\n2. ANALYZE: Determine which items are heavier.\n3. DEDUCE: Find the absolute heaviest or lightest item.\n4. SELECT: Click the letter for the correct operative.",
+      "savantInsight": "Translate scales into inequality chains (A > B)."
+    },
+    "PRIMECHECK": {
+      "name": "Prime Check",
+      "howToPlay": "1. OBSERVE: A large number is displayed.\n2. ANALYZE: Determine if it is Prime or Composite.\n3. CHOOSE: Click the correct button before the timer.\n4. ACCURACY: Precision is required at high speed.",
+      "savantInsight": "Discard even numbers and those ending in 5 instantly."
+    },
+    "EQUATIONBATTLE": {
+      "name": "Equation Battle",
+      "howToPlay": "1. SCAN: Compare two different math expressions.\n2. CALCULATE: Solve or estimate values for both.\n3. COMPARE: Choose Greater, Less, or Equal.\n4. EXECUTE: Click the correct operator button.",
+      "savantInsight": "Simplify both sides to their highest order of magnitude."
+    },
+    "BIRTHDATE": {
+      "name": "Birth Date",
+      "howToPlay": "1. FLIP: Reveal names or birth years on tiles.\n2. MEMORIZE: Remember the spatial location of each.\n3. MATCH: Pair operatives with their birth years.\n4. SYNCHRONIZE: Match all pairs to finish.",
+      "savantInsight": "Create a mental anchor connecting the name to year digits."
+    },
+    "PERFECTNUMBER": {
+      "name": "Perfect Number",
+      "howToPlay": "1. READ: Note the specific math criteria.\n2. SCAN: Find the one number that fits the property.\n3. SELECT: Click the correct number to advance.\n4. IDENTIFY: Accuracy is key in the grid search.",
+      "savantInsight": "Filter the grid by last digits first."
+    }
+  }
+}
