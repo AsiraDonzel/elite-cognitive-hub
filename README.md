@@ -34,7 +34,7 @@ The Elite Savant Terminal is a gamified "Savant Protocol" simulator. It features
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/elite-savant-terminal.git](https://github.com/YOUR_USERNAME/elite-savant-terminal.git)
+   git clone https://github.com/AsiraDonzel/elite-cognitive-hub.git
    ```
 
 2. Install dependencies:
